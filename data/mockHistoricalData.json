@@ -1,0 +1,7 @@
+{
+    "league": "Virtual League",
+    "matches": [
+        { "home": "Team A", "away": "Team B", "result": "2-1" },
+        { "home": "Team C", "away": "Team D", "result": "1-1" }
+    ]
+}
